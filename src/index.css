@@ -76,6 +76,11 @@ body {
   margin-top: 0px;
   padding-top: 0px;
 }
+.emailIcon{
+  width: 19px;
+  height: 19px;
+  padding-right: 4px;
+}
 button {
   border-radius: 8px;
   border: 1px solid transparent;
