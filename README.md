@@ -2,7 +2,7 @@
 
 ## Solo Project
 
-This project is set up with Vite + React
+This project is set up with Vite + React. Deployed on Netlify
 
 ## Installation
 
@@ -12,4 +12,5 @@ This project is set up with Vite + React
 
 ``> yarn run dev``
 
-## Deploy on Netlify
+## Things I added
+Added fontawesome package ! phew 😅 
