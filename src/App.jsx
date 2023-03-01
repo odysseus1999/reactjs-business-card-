@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import userAvatar from './assets/pritisolanki.png'
+import userAvatar from './assets/sree.jpeg'
 import mail from './assets/mail-142.svg'
 import './App.css'
 import  Footer  from './components/Footer/Footer.jsx'
@@ -15,14 +15,14 @@ function App() {
               <img src={userAvatar} className="avatar" alt="React logo" />
             </div>
             <div>
-              <h2 className="name">Priti Solanki</h2>
-              <h3 className="designation">Solution Architect</h3>
-              <h4 className="website"><a href="https://pritisolanki.com/" target="_blank">pritisolanki.com</a></h4>
+              <h2 className="name">Manchala Sreekanth</h2>
+              <h3 className="designation">Software Engineer</h3>
+              <h4 className="website"><a href="https://sree.ninja/" target="_blank">sree.ninja</a></h4>
               <button><a href="mailto:norpely@donotspam.com"><img src={mail} className="emailIcon" /><span class="btntext">Email</span></a></button>
               <h2 class="remove-space">About</h2>
-              <p>I am a solution architect with a particular interest in making things simple. I try to keep up with frontend technologies and best practices, and am always looking for new things to learn.</p>
+              <p>I am a software Engineer with a particular interest in making things simple. I try to keep up with frontend technologies and best practices, and am always looking for new things to learn.</p>
               <h2 class="remove-space">Interests</h2>
-              <p class="remove-space">Food expert. Music scholar. Reader. Blogger. [Copied]</p>
+              <p class="remove-space">Web Developer. Music scholar. Reader. </p>
             </div>
             <Footer />
           </div>
