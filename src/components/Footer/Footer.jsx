@@ -7,7 +7,7 @@ export default function Footer(){
     return(
         <footer class="footer">
             <div class="footer-item">
-                <a href="https://twitter.com/pritisolanki" target="_blank"><FontAwesomeIcon icon={brands('twitter')} /></a>
+                <a href="https://twitter.com/odysseus3096" target="_blank"><FontAwesomeIcon icon={brands('twitter')} /></a>
             </div>
             <div>
                 <FontAwesomeIcon icon={brands('instagram')} />
@@ -16,10 +16,10 @@ export default function Footer(){
                 <FontAwesomeIcon icon={brands('facebook')} />
             </div>
             <div>
-                <a href="https://www.linkedin.com/in/priti-s-43a2b8239/" target="_blank"><FontAwesomeIcon icon={brands('linkedin')} /></a>
+                <a href="https://www.linkedin.com/in/manchala-sreekanth-537bba209/" target="_blank"><FontAwesomeIcon icon={brands('linkedin')} /></a>
             </div>
             <div>
-                <a href="https://github.com/pritisolanki" target="_blank"><FontAwesomeIcon icon={brands('github')} /></a>
+                <a href="https://github.com/odysseus1999" target="_blank"><FontAwesomeIcon icon={brands('github')} /></a>
             </div>
         </footer>
     )
