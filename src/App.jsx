@@ -17,12 +17,12 @@ function App() {
             <div>
               <h2 className="name">Manchala Sreekanth</h2>
               <h3 className="designation">Software Engineer</h3>
-              <h4 className="website"><a href="https://sree.ninja/" target="_blank">sree.ninja</a></h4>
-              <button><a href="mailto:norpely@donotspam.com"><img src={mail} className="emailIcon" /><span class="btntext">Email</span></a></button>
+              <h4 className="website"><a href="https://manchala.me/" target="_blank">Potfolio</a></h4>
+              <button><a href="mailto:hackedinsolutions@gmail.com"><img src={mail} className="emailIcon" /><span class="btntext">Email</span></a></button>
               <h2 class="remove-space">About</h2>
-              <p>I am a software Engineer with a particular interest in making things simple. I try to keep up with frontend technologies and best practices, and am always looking for new things to learn.</p>
+              <p align="justify" >As the Founder and CEO of HackedIn Solutions, I am a passionate software engineer dedicated to simplifying complex processes. With a keen interest in frontend technologies and best practices, I continuously strive to expand my knowledge and explore new avenues for growth.</p>
               <h2 class="remove-space">Interests</h2>
-              <p class="remove-space">Web Developer. Music scholar. Reader. </p>
+              <p class="remove-space">Software Developer. Freelancer. Entrepreneur. </p>
             </div>
             <Footer />
           </div>

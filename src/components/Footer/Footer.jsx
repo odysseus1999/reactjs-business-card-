@@ -10,7 +10,7 @@ export default function Footer(){
                 <a href="https://twitter.com/odysseus3096" target="_blank"><FontAwesomeIcon icon={brands('twitter')} /></a>
             </div>
             <div>
-                <FontAwesomeIcon icon={brands('instagram')} />
+                <a href="https://www.instagram.com/_odysseus_m_/?hl=en" target="_blank"><FontAwesomeIcon icon={brands('instagram')}/></a>
             </div>
             <div>
                 <FontAwesomeIcon icon={brands('facebook')} />
